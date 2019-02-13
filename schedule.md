@@ -60,7 +60,7 @@ Mar 15:
 
 Mar 20:
 * Transport Protocols
-    * Read [DCTCP](https://dl.acm.org/citation.cfm?id=1851192)
+    * Read [AGMPPPSS10](https://dl.acm.org/citation.cfm?id=1851192)
     * Read [NDP](https://dl.acm.org/citation.cfm?id=3098825)
     * __Starter Project Due__
 
@@ -193,7 +193,7 @@ May 29
 
 May 31
 * Lab
-* [Final demonstrations and presentations]({{ site.baseurl }}/deliverables/final-demo)
+* __Final demonstrations and presentations__
 
 ---
 
