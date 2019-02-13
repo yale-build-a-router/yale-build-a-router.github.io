@@ -4,6 +4,208 @@ title: Schedule
 permalink: /schedule/
 ---
 
+
+
+
+Feb 20:
+* Intoduction
+    * Intro to class
+    * Logistics and administration
+
+---
+
+Feb 22:
+* Internet Architecture and Design
+    * Read [Kes07](https://dl.acm.org/citation.cfm?id=1273458)
+    * Read [Cla88](http://ccr.sigcomm.org/archive/1995/jan95/ccr-9501-clark.pdf)
+    * Read [SRC84](https://dl.acm.org/citation.cfm?id=357402)
+
+---
+
+Feb 22:
+* P4 Tutorial
+
+---
+
+Mar 1:
+* P4 Tutorial
+
+---
+
+Mar 6
+* Congestion Control I
+    * Read [JK88](https://dl.acm.org/citation.cfm?id=52356)
+    * Read [Flo94](https://dl.acm.org/citation.cfm?id=205512)
+    * __Starter Project Out__
+
+---
+
+Mar 8:
+* Lab
+
+---
+
+Mar 13:
+
+* High Speed Routing
+    * Read [MIMEH97](https://ieeexplore.ieee.org/document/566194)
+    * Read [WVTP97](https://dl.acm.org/citation.cfm?id=263136) 
+
+---
+
+Mar 15:
+* Lab
+
+---
+
+Mar 20:
+* Transport Protocols
+    * Read [DCTCP](https://dl.acm.org/citation.cfm?id=1851192)
+    * Read [NDP](https://dl.acm.org/citation.cfm?id=3098825)
+    * __Starter Project Due__
+
+---
+
+Mar 22:
+* Lab
+ 
+---
+
+Mar 27:
+* Topics 6: Active Networks
+    * Read [Wet99](https://dl.acm.org/citation.cfm?id=319156) 
+    * Read [Smith04+] Active networking: one view of the past, present, and future
+    * __Project Out__
+
+---
+
+Mar 29:
+* Lab
+
+
+---
+
+Apr 3:
+* Topics 7: SDN
+    * Soul&eacute; travelling
+    * Read [Road to SDN] http://www.cs.princeton.edu/courses/archive/fall18/cos561/papers/RoadToSDN13.pdf
+    * Read [Ethane] https://dl.acm.org/citation.cfm?id=1282382
+
+
+---
+
+Apr 5
+* Lab
+    * Soul&eacute; travelling
+
+---
+
+Apr 10
+* Topics 8: Data Plane Programmability
+    * Read [RMT] http://yuba.stanford.edu/~nickm/papers/RMT-SIGCOMM.pdf
+    * Read [SUME] https://www.cl.cam.ac.uk/~awm22/publications/zilberman2014sume.pdf
+
+---
+
+Apr 12
+* Lab
+
+---
+
+Apr 17
+* Topics 9: Languages
+    * Read [Frenetic] http://www.cs.cornell.edu/~jnfoster/papers/frenetic-icfp.pdf
+    * Read [P4] https://www.sigcomm.org/sites/default/files/ccr/papers/2014/July/0000000-0000004.pdf
+
+---
+
+Apr 19:
+* Easter (No Class) 
+
+---
+
+Apr 24:
+* Easter (No Class) 
+
+---
+
+Apr 26:
+* Easter (No Class) 
+
+---
+
+May 1
+* Labour Day (No Class) 
+
+---
+
+May 3
+* Topics 10: Applications
+    * Read [NetCache] https://www.cs.jhu.edu/~xinjin/files/SOSP17_NetCache.pdf
+    * Read [SilkRoad] SilkRoad: Making Stateful L4 Load Balancing Fast and Cheap Using Switching ASICs
+
+
+---
+
+May 8
+* Lab
+** __Complete Data-Plane and Control-Plane Implementations Due__
+
+---
+
+May 10
+* Lab
+** __Interoperability Proposal Due__
+
+---
+
+May 15
+* Topics 11: Control Plane
+    * Read [BGP Instability] http://www.cs.princeton.edu/courses/archive/fall18/cos561/papers/BGPInstability98.pdf
+    * Read [Fibbing] http://fibbing.net/files/sig15.pdf
+
+---
+
+May 17
+* Lab
+
+---
+
+May 22
+* Topics 12: Network Monitoring
+    * Read [FlowRadar]  FlowRadar: A Better NetFlow for Data Centers
+    * Read [NetSight] http://www.scs.stanford.edu/~dm/home/papers/handigol:netsight.pdf
+
+---
+
+May 24
+* Lab
+* __Final project due__
+
+---
+
+May 29
+* Topics 13: Architecture
+    * Read [VL2] https://www.microsoft.com/en-us/research/publication/vl2-a-scalable-and-flexible-data-center-network/
+    * Read [SEATTLE] http://www.cs.princeton.edu/courses/archive/fall18/cos561/papers/Seattle08.pdf
+
+---
+
+May 31
+* Lab
+* [Final demonstrations and presentations]({{ site.baseurl }}/deliverables/final-demo)
+
+---
+
+
+
+
+
+
+
+
+<!--
+
 April 2nd:
 * Lecture 1 Topics:
     * Intro to class
@@ -89,3 +291,4 @@ June 13th @ 3:30PM in Gates 358:
 
 
 
+-->
