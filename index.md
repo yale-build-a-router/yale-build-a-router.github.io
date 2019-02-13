@@ -7,8 +7,8 @@ layout: default
 **Term:** Spring 2019
 
 **Lectures:** 
-   * Wednesday 1:30pm – 3:15pm, Friday 3:30pm – 5:15pm
-   * 110-101 in the Main Quad
+   * Wednesday 1:30pm – 3:15pm, SI-013
+   * Friday 3:30pm – 5:15pm, SI-007
 
 # Overview
 
