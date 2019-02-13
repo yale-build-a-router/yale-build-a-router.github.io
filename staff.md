@@ -8,16 +8,17 @@ To reach us quickly, please use the CS344 Piazza forum.
 
 # Contact Info
 
-* Professor [Nick McKeown](http://yuba.stanford.edu/~nickm/)
-  * Email: [nickm@stanford.edu](mailto:nickm@stanford.edu)
-  * Office: Gates 338
-  * Office hours: Wednesday 1:30 - 2:30 PM, Gates 344
+* Professor [Robert Soul&eacute;](https://www.inf.usi.ch/faculty/soule/)
+  * Email: [robert.soule@usi.ch](mailto:robert.soule@usi.ch)
+  * Office: SI 207
+  * Office hours: By appointment
 
-* Stephen Ibanez (TF)
-  * Email: [sibanez@stanford.edu](mailto:sibanez@stanford.edu)
-  * Office: Gates 314
-  * Office hours: Tuesday & Thursday, 2:45 - 4:15PM, Gates 315
+* [Theo Jepsen](https://www.inf.usi.ch/phd/jepsen/)
+  * Email: [theodore.jepsen@usi.ch](mailto:theodore.jepsen@usi.ch)
+  * Office: Open Space, 2nd Floor Informatics
+  * Office hours: By appointment
 
-* Sarah Tollman (CA)
-  * Email: [stollman@stanford.edu](mailto:stollman@stanford.edu)
-  * Office hours: Tuesday & Thursday, 2:45 - 4:15PM, Gates 315
+* [Pietro Bressana](https://pietrobressana.github.io)
+  * Email: [pietro.bressana@usi.ch](mailto:pietro.bressana@usi.ch)
+  * Office: Open Space, 2nd Floor Informatics
+  * Office hours: By appointment
