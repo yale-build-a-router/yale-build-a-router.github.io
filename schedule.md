@@ -102,8 +102,8 @@ Apr 5
 
 Apr 10
 * Topics 8: Data Plane Programmability
-    * Read [RMT] http://yuba.stanford.edu/~nickm/papers/RMT-SIGCOMM.pdf
-    * Read [SUME] https://www.cl.cam.ac.uk/~awm22/publications/zilberman2014sume.pdf
+    * Read [Bosshart+13](https://dl.acm.org/citation.cfm?id=2486011)
+    * Read [Zilberman+14](https://www.cl.cam.ac.uk/~awm22/publications/zilberman2014sume.pdf)
 
 ---
 
@@ -114,8 +114,8 @@ Apr 12
 
 Apr 17
 * Topics 9: Languages
-    * Read [Frenetic] http://www.cs.cornell.edu/~jnfoster/papers/frenetic-icfp.pdf
-    * Read [P4] https://www.sigcomm.org/sites/default/files/ccr/papers/2014/July/0000000-0000004.pdf
+    * Read [Foster+11](https://dl.acm.org/citation.cfm?id=2034812)
+    * Read [Bosshart+14](https://dl.acm.org/citation.cfm?id=2656890)
 
 ---
 
@@ -141,9 +141,8 @@ May 1
 
 May 3
 * Topics 10: Applications
-    * Read [NetCache] https://www.cs.jhu.edu/~xinjin/files/SOSP17_NetCache.pdf
-    * Read [SilkRoad] SilkRoad: Making Stateful L4 Load Balancing Fast and Cheap Using Switching ASICs
-
+    * Read [Jin+17](https://dl.acm.org/citation.cfm?id=3132747.3132764)
+    * Read [Miao+17](https://dl.acm.org/citation.cfm?id=3098824&dl=ACM&coll=DL)
 
 ---
 
@@ -161,8 +160,8 @@ May 10
 
 May 15
 * Topics 11: Control Plane
-    * Read [BGP Instability] http://www.cs.princeton.edu/courses/archive/fall18/cos561/papers/BGPInstability98.pdf
-    * Read [Fibbing] http://fibbing.net/files/sig15.pdf
+    * Read [Labovitz+98](https://ieeexplore.ieee.org/document/731185)
+    * Read [Vissicchio+15](https://dl.acm.org/citation.cfm?id=2787497)
 
 ---
 
@@ -173,8 +172,8 @@ May 17
 
 May 22
 * Topics 12: Network Monitoring
-    * Read [FlowRadar]  FlowRadar: A Better NetFlow for Data Centers
-    * Read [NetSight] http://www.scs.stanford.edu/~dm/home/papers/handigol:netsight.pdf
+    * Read [Li+16](https://dl.acm.org/citation.cfm?id=2930632)
+    * Read [Handigol+14](https://dl.acm.org/citation.cfm?id=2616456)
 
 ---
 
@@ -186,8 +185,8 @@ May 24
 
 May 29
 * Topics 13: Architecture
-    * Read [VL2] https://www.microsoft.com/en-us/research/publication/vl2-a-scalable-and-flexible-data-center-network/
-    * Read [SEATTLE] http://www.cs.princeton.edu/courses/archive/fall18/cos561/papers/Seattle08.pdf
+    * Read [Greenberg+09](https://dl.acm.org/citation.cfm?id=1592576)
+    * Read [Kim+08](https://dl.acm.org/citation.cfm?id=1925110)
 
 ---
 
