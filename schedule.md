@@ -16,9 +16,9 @@ Feb 20:
 
 Feb 22:
 * Internet Architecture and Design
-    * Read [Kes07](https://dl.acm.org/citation.cfm?id=1273458)
-    * Read [Cla88](http://ccr.sigcomm.org/archive/1995/jan95/ccr-9501-clark.pdf)
-    * Read [SRC84](https://dl.acm.org/citation.cfm?id=357402)
+    * Read [Keshav07](https://dl.acm.org/citation.cfm?id=1273458)
+    * Read [Clark88](http://ccr.sigcomm.org/archive/1995/jan95/ccr-9501-clark.pdf)
+    * Read [Saltzer+84](https://dl.acm.org/citation.cfm?id=357402)
 
 ---
 
@@ -34,8 +34,8 @@ Mar 1:
 
 Mar 6
 * Congestion Control I
-    * Read [JK88](https://dl.acm.org/citation.cfm?id=52356)
-    * Read [Flo94](https://dl.acm.org/citation.cfm?id=205512)
+    * Read [Jacobson88](https://dl.acm.org/citation.cfm?id=52356)
+    * Read [Floyd94](https://dl.acm.org/citation.cfm?id=205512)
     * __Starter Project Out__
 
 ---
@@ -48,8 +48,8 @@ Mar 8:
 Mar 13:
 
 * High Speed Routing
-    * Read [MIMEH97](https://ieeexplore.ieee.org/document/566194)
-    * Read [WVTP97](https://dl.acm.org/citation.cfm?id=263136) 
+    * Read [McKeown+97](https://ieeexplore.ieee.org/document/566194)
+    * Read [Waldvogel+97](https://dl.acm.org/citation.cfm?id=263136) 
 
 ---
 
@@ -60,8 +60,8 @@ Mar 15:
 
 Mar 20:
 * Transport Protocols
-    * Read [AGMPPPSS10](https://dl.acm.org/citation.cfm?id=1851192)
-    * Read [NDP](https://dl.acm.org/citation.cfm?id=3098825)
+    * Read [Alizadeh+10](https://dl.acm.org/citation.cfm?id=1851192)
+    * Read [Handley+17](https://dl.acm.org/citation.cfm?id=3098825)
     * __Starter Project Due__
 
 ---
@@ -73,8 +73,8 @@ Mar 22:
 
 Mar 27:
 * Topics 6: Active Networks
-    * Read [Wet99](https://dl.acm.org/citation.cfm?id=319156) 
-    * Read [Smith04+] Active networking: one view of the past, present, and future
+    * Read [Wetherall99](https://dl.acm.org/citation.cfm?id=319156) 
+    * Read [Smith+04](https://ieeexplore.ieee.org/document/1262565)
     * __Project Out__
 
 ---
@@ -88,8 +88,8 @@ Mar 29:
 Apr 3:
 * Topics 7: SDN
     * Soul&eacute; travelling
-    * Read [Road to SDN] http://www.cs.princeton.edu/courses/archive/fall18/cos561/papers/RoadToSDN13.pdf
-    * Read [Ethane] https://dl.acm.org/citation.cfm?id=1282382
+    * Read [Feamster+13](https://dl.acm.org/citation.cfm?id=2602219)
+    * Read [Casado+07](https://dl.acm.org/citation.cfm?id=1282382)
 
 
 ---
