@@ -28,6 +28,15 @@ Every review should answer the following three questions:
 * What is new or different?
 * What are the contributions and limitations?
 
+## Submitting Reviews
+Reviews are due the day before the lecture in which the reviewed paper will be
+discussed. Students must submit reviews to the course HotCRP website:
+[usi-advanced-networking19.hotcrp.com](https://usi-advanced-networking19.hotcrp.com/search?q=&t=s)
+
+After submitting a review, students can read reviews submitted by other
+students. Note that students may not update their review; updated reviews will
+not be graded.
+
 # Teams
 
 The class will be broken down into teams of two students. We leave it up to each team to decide how to they would like to divide up the workload amongst themselves. However, we highly encourge close collaboration and consulation so that each member is intimiately familiar with both aspects of the router implementation.
