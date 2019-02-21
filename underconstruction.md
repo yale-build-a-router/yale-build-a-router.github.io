@@ -3,6 +3,6 @@ layout: page
 title: Under Construction
 ---
 
-[<img src="{{ site.baseurl }}/images/uc.png" style="width: 400px;"/>]
+<img src="{{ site.baseurl }}/images/uc.png" style="width: 600px;"/>
 
-[Back to the homepage]({{ site.baseurl }}/).
+[Back to the homepage]({{ site.baseurl }}/)
