@@ -8,8 +8,8 @@ A set of documents you may find useful:
 
 * [Building an Internet Router]({{ site.baseurl }}/documentation/internet-router)
 
+    * [Getting-Started Guide]({{ site.baseurl }}/documentation/getting-started)
     * [Starter Code Overview]({{ site.baseurl }}/documentation/starter-code)
-    * [SimpleSumeSwitch Documentation]({{ site.baseurl }}/documentation/simple-sume-switch)
     * [PWOSPF Specification]({{ site.baseurl }}/documentation/pwospf)
     
 * Learning P4
