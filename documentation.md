@@ -6,7 +6,7 @@ permalink: /documentation/
 
 * **A set of documents you may find useful:**
 
-    * [Getting-Started Guide]({{ site.baseurl }}/documentation/getting-started)
+    * [Getting Started Guide]({{ site.baseurl }}/documentation/getting-started)
     * [PWOSPF Specification]({{ site.baseurl }}/documentation/pwospf)
 
 [//]: # (* [Building an Internet Router]({{ site.baseurl }}/documentation/internet-router))
