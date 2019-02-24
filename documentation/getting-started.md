@@ -60,7 +60,7 @@ git clone --branch rc-2.0.0 https://github.com/p4lang/p4app.git
 * **Make p4app command available:**
 
 ```
-ln -s &lt;PATH_TO_P4APP_REPO&gt;/p4app/p4app /usr/local/bin/p4app
+ln -s <PATH_TO_P4APP_REPO>/p4app/p4app /usr/local/bin/p4app
 ```
 
 * **Launch docker quickstart terminal:**
@@ -72,5 +72,23 @@ open -a Docker\ Quickstart\ Terminal -j
 * **Run program through p4app:**
 
 ```
-p4app run &lt;PROG_NAME&gt;.p4app/
+p4app run <PROG_NAME>.p4app/
 ```
+
+* **For example, run `wire.p4app`:**
+
+
+```
+p4app run <PATH_TO_P4APP_REPO>/p4app/examples/wire.p4app
+```
+
+
+## Writing P4 Programs
+
+We use Vim to edit `.p4` files, but you can use any text editor. Here are some
+syntax highlighters for popular editors:
+
+* [Vim](https://github.com/p4lang/tutorials/blob/master/vm/p4.vim)
+* [Emacs](https://github.com/p4lang/tutorials/blob/master/vm/p4_16-mode.el)
+* [Atom](https://atom.io/packages/language-p4)
+* [Sublime](https://github.com/c3m3gyanesh/p4-syntax-highlighter)
