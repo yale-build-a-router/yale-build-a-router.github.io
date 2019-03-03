@@ -36,7 +36,7 @@ Mar 6
 * Congestion Control I
     * Read [Jacobson88](https://dl.acm.org/citation.cfm?id=52356)
     * Read [Floyd94](https://dl.acm.org/citation.cfm?id=205512)
-    * __Starter Project Out__
+    * [Starter Project](https://github.com/usi-advanced-networking/switch-cache) Out
 
 ---
 
