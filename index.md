@@ -8,7 +8,7 @@ layout: default
 
 **Lectures:** 
    * Wednesday 1:30pm – 3:15pm, SI-013
-   * Friday 3:30pm – 5:15pm, SI-007
+   * Thursday 3:30pm – 5:15pm, SI-007
 
 # Overview
 
