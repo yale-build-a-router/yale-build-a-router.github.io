@@ -40,7 +40,7 @@ Mar 6
 
 ---
 
-Mar 8:
+Mar 7:
 * Lab
 
 ---
@@ -53,7 +53,7 @@ Mar 13:
 
 ---
 
-Mar 15:
+Mar 14:
 * Lab
 
 ---
@@ -65,7 +65,7 @@ Mar 20:
 
 ---
 
-Mar 22:
+Mar 21:
 * Lab
  
 ---
@@ -78,7 +78,7 @@ Mar 27:
 
 ---
 
-Mar 29:
+Mar 28:
 * Lab
 
 
@@ -93,7 +93,7 @@ Apr 3:
 
 ---
 
-Apr 5
+Apr 4
 * Lab
     * Soul&eacute; travelling
 
@@ -106,7 +106,7 @@ Apr 10
 
 ---
 
-Apr 12
+Apr 11
 * Lab
 
 ---
@@ -118,7 +118,7 @@ Apr 17
 
 ---
 
-Apr 19:
+Apr 18:
 * Easter (No Class) 
 
 ---
@@ -128,7 +128,7 @@ Apr 24:
 
 ---
 
-Apr 26:
+Apr 25:
 * Easter (No Class) 
 
 ---
@@ -138,7 +138,7 @@ May 1
 
 ---
 
-May 3
+May 2
 * Topics 10: Applications
     * Read [Jin+17](https://dl.acm.org/citation.cfm?id=3132747.3132764)
     * Read [Miao+17](https://dl.acm.org/citation.cfm?id=3098824&dl=ACM&coll=DL)
@@ -151,7 +151,7 @@ May 8
 
 ---
 
-May 10
+May 9
 * Lab
 ** __Interoperability Proposal Due__
 
@@ -164,7 +164,7 @@ May 15
 
 ---
 
-May 17
+May 16
 * Lab
 
 ---
@@ -176,7 +176,7 @@ May 22
 
 ---
 
-May 24
+May 23
 * Lab
 * __Final project due__
 
@@ -189,7 +189,7 @@ May 29
 
 ---
 
-May 31
+May 30
 * Lab
 * __Final demonstrations and presentations__
 
