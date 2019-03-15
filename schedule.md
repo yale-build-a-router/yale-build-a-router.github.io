@@ -60,7 +60,6 @@ Mar 15:
 
 Mar 20:
 * Transport Protocols
-    * Read [Alizadeh+10](https://dl.acm.org/citation.cfm?id=1851192)
     * Read [Handley+17](https://dl.acm.org/citation.cfm?id=3098825)
     * __Starter Project Due__
 
