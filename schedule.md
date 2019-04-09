@@ -103,7 +103,7 @@ Apr 4
 Apr 10
 * Topics 8: Data Plane Programmability
     * Read [Bosshart+13](https://dl.acm.org/citation.cfm?id=2486011)
-    * Read [Zilberman+14](https://www.cl.cam.ac.uk/~awm22/publications/zilberman2014sume.pdf)
+
 
 ---
 
