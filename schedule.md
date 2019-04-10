@@ -115,7 +115,7 @@ Apr 11
 Apr 17
 * Topics 9: Languages
     * Read [Foster+11](https://dl.acm.org/citation.cfm?id=2034812)
-    * Read [Bosshart+14](https://dl.acm.org/citation.cfm?id=2656890)
+    * Optionally Read [Bosshart+14](https://dl.acm.org/citation.cfm?id=2656890)
 
 ---
 
