@@ -142,7 +142,7 @@ May 1
 May 2
 * Topics 10: Applications
     * Read [Jin+17](https://dl.acm.org/citation.cfm?id=3132747.3132764)
-    * Read [Miao+17](https://dl.acm.org/citation.cfm?id=3098824&dl=ACM&coll=DL)
+    * Optionally Read [Miao+17](https://dl.acm.org/citation.cfm?id=3098824&dl=ACM&coll=DL)
 
 ---
 
