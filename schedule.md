@@ -160,7 +160,7 @@ May 9
 
 May 15
 * Topics 11: Switch Software
-    *  Read [Choi+18](http://delivery.acm.org/10.1145/3240000/3230546/p342-choi.pdf)
+    *  Read [Choi+18](https://dl.acm.org/citation.cfm?id=3230546) 
 
 ---
 
