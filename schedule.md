@@ -159,9 +159,8 @@ May 9
 ---
 
 May 15
-* Topics 11: Control Plane
-    * Read [Labovitz+98](https://ieeexplore.ieee.org/document/731185)
-    * Read [Vissicchio+15](https://dl.acm.org/citation.cfm?id=2787497)
+* Topics 11: Switch Software
+    *  Read [Choi+18](http://delivery.acm.org/10.1145/3240000/3230546/p342-choi.pdf)
 
 ---
 
