@@ -159,20 +159,20 @@ May 9
 ---
 
 May 15
-* Topics 11: Switch Software
-    *  Read [Choi+18](https://dl.acm.org/citation.cfm?id=3230546) 
+* Lab
 
 ---
 
 May 16
 * Lab
+** __Complete Data-Plane and Control-Plane Implementations Due__
+** __Interoperability Proposal Due__
 
 ---
 
 May 22
-* Topics 12: Network Monitoring
-    * Read [Li+16](https://dl.acm.org/citation.cfm?id=2930632)
-    * Read [Handigol+14](https://dl.acm.org/citation.cfm?id=2616456)
+Topics 11: Switch Software
+    *  Read [Choi+18](https://dl.acm.org/citation.cfm?id=3230546) 
 
 ---
 
@@ -183,7 +183,7 @@ May 23
 ---
 
 May 29
-* Topics 13: Architecture
+* Topics 12: Architecture
     * Read [Greenberg+09](https://dl.acm.org/citation.cfm?id=1592576)
     * Read [Kim+08](https://dl.acm.org/citation.cfm?id=1925110)
 
