@@ -163,8 +163,8 @@ May 15
 
 May 16
 * Lab
-** __Complete Data-Plane and Control-Plane Implementations Due__
-** __Interoperability Proposal Due__
+    * ** __Complete Data-Plane and Control-Plane Implementations Due__
+    * ** __Interoperability Proposal Due__
 
 ---
 
