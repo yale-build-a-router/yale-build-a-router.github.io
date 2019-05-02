@@ -169,7 +169,7 @@ May 16
 ---
 
 May 22
-Topics 11: Switch Software
+* Topics 11: Switch Software
     *  Read [Choi+18](https://dl.acm.org/citation.cfm?id=3230546) 
 
 ---
