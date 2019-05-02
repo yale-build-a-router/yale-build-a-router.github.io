@@ -148,13 +148,11 @@ May 2
 
 May 8
 * Lab
-** __Complete Data-Plane and Control-Plane Implementations Due__
 
 ---
 
 May 9
 * Lab
-** __Interoperability Proposal Due__
 
 ---
 
