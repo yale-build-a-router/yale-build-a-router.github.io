@@ -181,13 +181,6 @@ May 23
 ---
 
 May 29
-* Topics 12: Architecture
-    * Read [Greenberg+09](https://dl.acm.org/citation.cfm?id=1592576)
-    * Read [Kim+08](https://dl.acm.org/citation.cfm?id=1925110)
-
----
-
-May 30
 * Lab
 * __Final demonstrations and presentations__
 
