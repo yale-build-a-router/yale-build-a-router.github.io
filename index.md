@@ -31,7 +31,7 @@ Every review should answer the following three questions:
 ## Submitting Reviews
 Reviews are due the day before the lecture in which the reviewed paper will be
 discussed. Students must submit reviews to the course HotCRP website:
-[usi-advanced-networking19.hotcrp.com](https://usi-advanced-networking19.hotcrp.com/search?q=&t=s)
+[https://yale-build-a-router-2019.hotcrp.com](https://yale-build-a-router-2019.hotcrp.com)
 
 After submitting a review, students can read reviews submitted by other
 students. Note that students may not update their review; updated reviews will
