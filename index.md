@@ -16,7 +16,7 @@ There are two components to this class:
 
 * __Reading, reviewing, and discussing papers__. Students will read a selection of papers to get both a historical perspective and exposure to current research in networking. Students will write reviews of the papers to make sure everyone keeps up with the readings and to develop their (technical) communication skills.
 
-* __Performing a term-long project__. Students will work in teams of two to build  a fully functioning Internet router. Students will design the control plane in Python on a linux host and will design the data plane in the new P4 language on the bmv2 software switch. For the midterm milestone, teams must demonstrate that their routers can interoperate with the other teams by building a small topology utilizing everyone's router.
+* __Performing a term-long project__. Students will build  a fully functioning Internet router. Students will design the control plane in Python on a linux host and will design the data plane in the new P4 language on the bmv2 software switch. For the midterm milestone, teams must demonstrate that their routers can interoperate with the other teams by building a small topology utilizing everyone's router.
 
 # Readings
 
