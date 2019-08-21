@@ -73,13 +73,13 @@ Oct 2:
 ---
 
 Oct 7:
-* Congestion Control I
+* Congestion Control 
     * Read [Jacobson88](https://dl.acm.org/citation.cfm?id=52356)
 
 ---
 
 Oct 9:
-* Congestion Control I
+* Congestion Control 
     * Read [Floyd94](https://dl.acm.org/citation.cfm?id=205512)
 
 ---
@@ -92,7 +92,7 @@ Oct 14:
 ---
 
 Oct 16:
-    * October recess; classes do not meet
+* October recess; classes do not meet
 
 ---
 
