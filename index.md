@@ -4,11 +4,11 @@ layout: default
 
 # Time and Location
 
-**Term:** Spring 2019
+**Term:** Fall 2019
 
 **Lectures:** 
-   * Wednesday 1:30pm – 3:15pm, SI-013
-   * Thursday 3:30pm – 5:15pm, SI-007
+   * Monday and Wednesday 2:30pm – 3:45pm, <a href="https://map.yale.edu/place/building/HLH17?">HLH17</a>
+
 
 # Overview
 
