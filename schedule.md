@@ -5,7 +5,160 @@ permalink: /schedule/
 ---
 
 
+Aug 28:
+* Intoduction
+    * Intro to class
+    * Logistics and administration
+    * Read [Keshav07](https://dl.acm.org/citation.cfm?id=1273458)
 
+---
+Sep 2:
+* Labor Day; classes do not meet
+
+---
+
+Sep 4:
+* Switch Software
+   *  Read [Choi+18](https://dl.acm.org/citation.cfm?id=3230546) 
+---
+
+Sep 9:
+* SDN
+    * Read [Feamster+13](https://dl.acm.org/citation.cfm?id=2602219)
+---
+
+Sep 11:
+* SDN
+    * Read [Casado+07](https://dl.acm.org/citation.cfm?id=1282382)
+---
+
+Sep 16:
+* Data Plane Programmability
+   * Read [Bosshart+13](https://dl.acm.org/citation.cfm?id=2486011)
+---
+
+Sep 18:
+* Data Plane Programmability
+   * Read [Kohler+00](http://www.cs.princeton.edu/courses/archive/fall18/cos561/papers/Click00.pdf)
+
+---
+
+Sep 22:
+* Languages   
+   * Read [Bosshart+14](https://dl.acm.org/citation.cfm?id=2656890)
+---
+
+Sep 25:
+* Languages   
+    * Read [Foster+11](https://dl.acm.org/citation.cfm?id=2034812)
+
+---
+
+Sep 30:
+* Internet Architecture and Design
+    * Read [Clark88](http://ccr.sigcomm.org/archive/1995/jan95/ccr-9501-clark.pdf)
+
+---
+
+Oct 2:
+* Internet Architecture and Design
+    * Read [Saltzer+84](https://dl.acm.org/citation.cfm?id=357402)
+
+---
+
+Oct 7:
+* Congestion Control I
+    * Read [Jacobson88](https://dl.acm.org/citation.cfm?id=52356)
+
+---
+
+Oct 9:
+* Congestion Control I
+    * Read [Floyd94](https://dl.acm.org/citation.cfm?id=205512)
+---
+
+
+Oct 14:
+* Active Networks
+    * Read [Smith+04](https://ieeexplore.ieee.org/document/1262565)
+---
+Oct 16:
+October recess; classes do not meet
+
+---
+Oct 21:
+* High Speed Routing
+    * Read [McKeown+97](https://ieeexplore.ieee.org/document/566194)
+
+---
+Oct 23:
+* High Speed Routing
+    * Read [Waldvogel+97](https://dl.acm.org/citation.cfm?id=263136) 
+
+---
+Oct 28:
+* Transport Protocols
+    * Read [Alizadeh+10](https://people.csail.mit.edu/alizadeh/papers/dctcp-sigcomm10.pdf)
+
+---
+Oct 30:
+* Transport Protocols
+    * Read [Handley+17](https://dl.acm.org/citation.cfm?id=3098825)
+
+---
+Nov 4:
+* : Applications
+    * Read [Jin+17](https://dl.acm.org/citation.cfm?id=3132747.3132764)
+    
+---
+Nov 6:
+* : Applications
+    * Read [Miao+17](https://dl.acm.org/citation.cfm?id=3098824&dl=ACM&coll=DL)
+---
+Nov 11:
+* Architecture
+    * Read [VL2](https://www.microsoft.com/en-us/research/publication/vl2-a-scalable-and-flexible-data-center-network/)
+---
+Nov 13:
+* Architecture
+    * Read [SEATTLE](http://www.cs.princeton.edu/courses/archive/fall18/cos561/papers/Seattle08.pdf)
+---
+Nov 18:
+* Network Monitoring
+   * READ  FlowRadar: A Better NetFlow for Data Centers
+
+---
+Nov 20:
+* Network Monitoring
+   * Read [NetSight](http://www.scs.stanford.edu/~dm/home/papers/handigol:netsight.pdf)
+
+---
+Nov 25:
+* Control Plane
+   * [BGP Instability] http://www.cs.princeton.edu/courses/archive/fall18/cos561/papers/BGPInstability98.pdf
+
+---
+November recess; classes do not meet
+---
+Nov 27:
+* Control Plane
+   * [Fibbing] http://fibbing.net/files/sig15.pdf
+
+---
+November recess; classes do not meet
+---
+Dec 2:
+* Multicast Routing
+    * [DC90] S. Deering and D. Cheriton, Multicast Routing in Datagram Internetworks and Extended LANs, ACM Transactions on Computer Systems (TOCS), Vol. 8, No. 2, pp 85-110, May, 1990.
+
+---
+Dec 4:
+* Multicast Routing
+    * [Riz00], L. Rizzo pgmcc: A TCP-friendly Single-Rate Multicast Congestion Control Scheme; In Proc. of ACM SIGCOMM '00
+
+
+
+<!--
 
 Feb 20:
 * Intoduction
@@ -193,7 +346,6 @@ May 29
 
 
 
-<!--
 
 April 2nd:
 * Lecture 1 Topics:
