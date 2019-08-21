@@ -134,21 +134,20 @@ Nov 6:
 
 Nov 11:
 * Architecture
-    * Read [VL2](https://www.microsoft.com/en-us/research/publication/vl2-a-scalable-and-flexible-data-center-network/)
+    * Read [Kim+08](http://www.cs.princeton.edu/courses/archive/fall18/cos561/papers/Seattle08.pdf)
 
 ---
 
 Nov 13:
-
 * Architecture
-    * Read [SEATTLE](http://www.cs.princeton.edu/courses/archive/fall18/cos561/papers/Seattle08.pdf)
+    * Read [Greenberg+09](https://www.microsoft.com/en-us/research/publication/vl2-a-scalable-and-flexible-data-center-network/)
 
 ---
 
 Nov 18:
 
 * Network Monitoring
-   * READ  FlowRadar: A Better NetFlow for Data Centers
+   * READ [Li+16](https://www.usenix.org/node/194941)
 
 ---
 
@@ -173,13 +172,13 @@ Nov 27:
 
 Dec 2:
 * Control Plane
-   * [BGP Instability] http://www.cs.princeton.edu/courses/archive/fall18/cos561/papers/BGPInstability98.pdf
+   * [Labovitz+98](http://www.cs.princeton.edu/courses/archive/fall18/cos561/papers/BGPInstability98.pdf)
 
 ---
 
 Dec 4:
 * Control Plane
-   * [Fibbing] http://fibbing.net/files/sig15.pdf
+   * [Vissicchio+15](http://fibbing.net/files/sig15.pdf)
 
 
 
