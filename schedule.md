@@ -154,7 +154,7 @@ Nov 18:
 Nov 20:
 
 * Network Monitoring
-   * Read [NetSight](http://www.scs.stanford.edu/~dm/home/papers/handigol:netsight.pdf)
+   * Read [Handigol+14](http://www.scs.stanford.edu/~dm/home/papers/handigol:netsight.pdf)
 
 ---
 
