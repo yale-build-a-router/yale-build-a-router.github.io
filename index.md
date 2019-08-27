@@ -30,12 +30,12 @@ Every review should answer the following three questions:
 
 ## Submitting Reviews
 Reviews are due the day before the lecture in which the reviewed paper will be
-discussed. Students must submit reviews to the course HotCRP website:
-[https://yale-build-a-router-2019.hotcrp.com](https://yale-build-a-router-2019.hotcrp.com)
+discussed. Students must email their reviews to the course mailing list by midnight before the class.
 
-After submitting a review, students can read reviews submitted by other
-students. Note that students may not update their review; updated reviews will
-not be graded.
+
+## Class Mailing List
+
+TBD
 
 # Class Router Interoperation
 
