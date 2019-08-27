@@ -4,6 +4,8 @@ title: Schedule
 permalink: /schedule/
 ---
 
+<b>Check this page regularly. Project milestones will be posted soon.</b>
+
 
 Aug 28:
 * Introduction
