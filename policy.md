@@ -6,7 +6,7 @@ permalink: /policy/
 
 # Honor Code
 
-Although you are encouraged to discuss ideas with others, your programs are to be completed independently and must be your own, original work, or the work of you and your partners. Whenever you obtain significant outside help (from other students, the TAs, etc.) you should acknowledge this in your program write-up, e.g. “The idea for how to implement ARP decoding came from a discussion with Paola.”
+Although you are encouraged to discuss ideas with others, your programs are to be completed independently and must be your own, original work, or the work of you and your partners. Whenever you obtain significant outside help (from other students, the TAs, etc.) you should acknowledge this in your program write-up, e.g. “The idea for how to implement ARP decoding came from a discussion with Alice.”
 
 Any violation of the University's policies on Academic and Professional Integrity may result in serious penalties, which might range from failing an assignment, to failing a course, to being expelled from the program.
 
