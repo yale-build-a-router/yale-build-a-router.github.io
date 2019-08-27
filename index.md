@@ -33,9 +33,9 @@ Reviews are due the day before the lecture in which the reviewed paper will be
 discussed. Students must email their reviews to the course mailing list by midnight before the class.
 
 
-## Class Mailing List
+## Course Mailing List
 
-TBD
+Join the course <a href="http://mailman.cs.yale.edu/mailman/listinfo/cpsc634-fall2019">mailing list</a>. 
 
 # Class Router Interoperation
 
