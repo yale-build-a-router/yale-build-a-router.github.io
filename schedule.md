@@ -39,25 +39,26 @@ Sep 11:
 ---
 
 Sep 16:
-* Data Plane Programmability
+* Data Plane Programmability I
    * Read [Bosshart+13](https://dl.acm.org/citation.cfm?id=2486011)
 
 ---
 
 Sep 18:
-* Data Plane Programmability
-   * Read [Kohler+00](http://www.cs.princeton.edu/courses/archive/fall18/cos561/papers/Click00.pdf)
+* Languages I   
+   * Read [Bosshart+14](https://dl.acm.org/citation.cfm?id=2656890)
+   * Do the [P4 Tutorial](https://github.com/p4lang/tutorials)
 
 ---
 
 Sep 22:
-* Languages   
-   * Read [Bosshart+14](https://dl.acm.org/citation.cfm?id=2656890)
+* Data Plane Programmability II
+   * Read [Kohler+00](http://www.cs.princeton.edu/courses/archive/fall18/cos561/papers/Click00.pdf)
 
 ---
 
 Sep 25:
-* Languages   
+* Languages II  
     * Read [Foster+11](https://dl.acm.org/citation.cfm?id=2034812)
 
 ---
