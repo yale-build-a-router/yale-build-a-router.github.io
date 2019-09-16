@@ -41,6 +41,7 @@ Sep 11:
 Sep 16:
 * Data Plane Programmability I
    * Read [Bosshart+13](https://dl.acm.org/citation.cfm?id=2486011)
+   * Optionally read [Song13](https://dl.acm.org/citation.cfm?id=2491190)
 
 ---
 
