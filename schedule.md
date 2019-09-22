@@ -55,6 +55,7 @@ Sep 18:
 Sep 22:
 * Data Plane Programmability II
    * Read [Kohler+00](http://www.cs.princeton.edu/courses/archive/fall18/cos561/papers/Click00.pdf)
+   * [Starter project](https://github.com/yale-build-a-router/switch-cache) out.
 
 ---
 
@@ -79,6 +80,7 @@ Oct 2:
 Oct 7:
 * Congestion Control 
     * Read [Jacobson88](https://dl.acm.org/citation.cfm?id=52356)
+    * Starter Project due. 
 
 ---
 
