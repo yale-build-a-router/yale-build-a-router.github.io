@@ -181,6 +181,7 @@ Nov 27:
 Dec 2:
 * Control Plane
    * [Labovitz+98](http://www.cs.princeton.edu/courses/archive/fall18/cos561/papers/BGPInstability98.pdf)
+   * Interoperability demonstration due
 
 ---
 
