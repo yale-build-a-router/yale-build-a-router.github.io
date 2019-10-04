@@ -15,6 +15,8 @@ The control-plane will be written in Python on top of the [Scapy](https://scapy.
 
 * Complete [Getting Started]({{ site.baseurl }}/documentation/getting-started) deliverable to get everything that you will need set up.
 
+* To help get you started, we've provided this [example code](https://github.com/yale-build-a-router/maclearning.p4app)
+
 * Review the protocols:
     * [PWOSPF]({{ site.baseurl }}/documentation/pwospf/)
     * IP - understand how a router makes a decision about forwarding an IP packet based on its routing table
