@@ -13,10 +13,10 @@ The control-plane will be written in Python on top of the [Scapy](https://scapy.
 
 # Approach
 
-* Complete [Getting Started]({{ site.baseurl }}/deliverables/getting-started) deliverable to get everything that you will need set up.
+* Complete [Getting Started]({{ site.baseurl }}/documentation/getting-started) deliverable to get everything that you will need set up.
 
 * Review the protocols:
-  * [PWOSPF]({{ site.baseurl }}/documentation/pwospf/)
+    * [PWOSPF]({{ site.baseurl }}/documentation/pwospf/)
     * IP - understand how a router makes a decision about forwarding an IP packet based on its routing table
     * ARP
     * ICMP
