@@ -8,9 +8,8 @@ permalink: /documentation/
 
     * [Getting Started Guide]({{ site.baseurl }}/documentation/getting-started)
     * [PWOSPF Specification]({{ site.baseurl }}/documentation/pwospf)
-    * [PWOSPF Step-by-Step Specification]({{ site.baseurl }}/documentation/step-by-step)
-
-[//]: # (* [Building an Internet Router]({{ site.baseurl }}/documentation/internet-router))
+    * [Building an Internet Router]({{ site.baseurl }}/documentation/internet-router)
+  
 [//]: # (* [Starter Code Overview]({{ site.baseurl }}/documentation/starter-code))
 
 * **Learning P4:**
