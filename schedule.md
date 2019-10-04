@@ -81,6 +81,7 @@ Oct 7:
 * Congestion Control 
     * Read [Jacobson88](https://dl.acm.org/citation.cfm?id=52356)
     * Starter Project due. 
+    * [Internet Router Project](https://yale-build-a-router.github.io/documentation/internet-router/)
 
 ---
 
@@ -154,6 +155,7 @@ Nov 18:
 
 * Network Monitoring
    * READ [Li+16](https://www.usenix.org/node/194941)
+   * Router project due
 
 ---
 
