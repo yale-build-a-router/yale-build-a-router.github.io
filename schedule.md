@@ -122,7 +122,8 @@ Oct 28:
 ---
 
 Oct 30:
-* TBD
+* Network Virtualization
+    * Read [Kumar+19](https://dl.acm.org/citation.cfm?id=3342093)
 
 ---
 
