@@ -110,20 +110,19 @@ Oct 21:
 ---
 
 Oct 23:
-* High Speed Routing
-    * Read [Waldvogel+97](https://dl.acm.org/citation.cfm?id=263136) 
-
----
-
-Oct 28:
 * Transport Protocols
     * Read [Alizadeh+10](https://people.csail.mit.edu/alizadeh/papers/dctcp-sigcomm10.pdf)
 
 ---
 
-Oct 30:
+Oct 28:
 * Transport Protocols
     * Read [Handley+17](https://dl.acm.org/citation.cfm?id=3098825)
+
+---
+
+Oct 30:
+* TBD
 
 ---
 
