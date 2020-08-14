@@ -4,10 +4,11 @@ layout: default
 
 # Time and Location
 
-**Term:** Fall 2019
+**Term:** Fall 2020
 
 **Lectures:** 
-   * Monday and Wednesday 2:30pm – 3:45pm, <a href="https://map.yale.edu/place/building/HLH17?">HLH17</a>
+   * Monday and Wednesday 2:30pm – 3:45pm
+   * Lectures will be held on Zoom
 
 
 # Overview
