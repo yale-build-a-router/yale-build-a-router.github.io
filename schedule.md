@@ -7,7 +7,7 @@ permalink: /schedule/
 <b>Check this page regularly. Project milestones will be posted soon.</b>
 
 
-Aug 28:
+Aug 31:
 * Introduction
     * Intro to class
     * Logistics and administration
@@ -16,68 +16,63 @@ Aug 28:
 ---
 
 Sep 2:
-* Labor Day; classes do not meet
-
----
-
-Sep 4:
 * Switch Software
    *  Read [Choi+18](https://dl.acm.org/citation.cfm?id=3230546) 
 
 ---
 
-Sep 9:
+Sep 7:
 * SDN
     * Read [Feamster+13](https://dl.acm.org/citation.cfm?id=2602219)
 
 ---
 
-Sep 11:
+Sep 9:
 * SDN
     * Read [Casado+07](https://dl.acm.org/citation.cfm?id=1282382)
 
 ---
 
-Sep 16:
+Sep 14:
 * Data Plane Programmability I
    * Read [Bosshart+13](https://dl.acm.org/citation.cfm?id=2486011)
    * Optionally read [Song13](https://dl.acm.org/citation.cfm?id=2491190)
 
 ---
 
-Sep 18:
+Sep 16:
 * Languages I   
    * Read [Bosshart+14](https://dl.acm.org/citation.cfm?id=2656890)
    * Do the [P4 Tutorial](https://github.com/p4lang/tutorials)
 
 ---
 
-Sep 22:
+Sep 21:
 * Data Plane Programmability II
    * Read [Kohler+00](http://www.cs.princeton.edu/courses/archive/fall18/cos561/papers/Click00.pdf)
    * [Starter project](https://github.com/yale-build-a-router/switch-cache) out.
 
 ---
 
-Sep 25:
+Sep 23:
 * Languages II  
     * Read [Foster+11](https://dl.acm.org/citation.cfm?id=2034812)
 
 ---
 
-Sep 30:
+Sep 28:
 * Internet Architecture and Design
     * Read [Clark88](http://ccr.sigcomm.org/archive/1995/jan95/ccr-9501-clark.pdf)
 
 ---
 
-Oct 2:
+Sep 30:
 * Internet Architecture and Design
     * Read [Saltzer+84](https://dl.acm.org/citation.cfm?id=357402)
 
 ---
 
-Oct 7:
+Oct 5:
 * Congestion Control 
     * Read [Jacobson88](https://dl.acm.org/citation.cfm?id=52356)
     * Starter Project due. 
@@ -85,73 +80,73 @@ Oct 7:
 
 ---
 
-Oct 9:
+Oct 7:
 * Congestion Control 
     * Read [Floyd94](https://dl.acm.org/citation.cfm?id=205512)
 
 ---
 
 
-Oct 14:
+Oct 12:
 * Active Networks
     * Read [Smith+04](https://ieeexplore.ieee.org/document/1262565)
 
 ---
 
-Oct 16:
+Oct 14:
 * October recess; classes do not meet
 
 ---
 
-Oct 21:
+Oct 19:
 * High Speed Routing
     * Read [McKeown+97](https://ieeexplore.ieee.org/document/566194)
 
 ---
 
-Oct 23:
+Oct 21:
 * Transport Protocols
     * Read [Alizadeh+10](https://people.csail.mit.edu/alizadeh/papers/dctcp-sigcomm10.pdf)
 
 ---
 
-Oct 28:
+Oct 26:
 * Transport Protocols
     * Read [Handley+17](https://dl.acm.org/citation.cfm?id=3098825)
 
 ---
 
-Oct 30:
+Oct 28:
 * Network Virtualization
     * Read [Kumar+19](https://dl.acm.org/citation.cfm?id=3342093)
 
 ---
 
-Nov 4:
+Nov 2:
 * : Applications
     * Read [Jin+17](https://dl.acm.org/citation.cfm?id=3132747.3132764)
     
 ---
 
-Nov 6:
+Nov 4:
 * : Applications
     * Read [Miao+17](https://dl.acm.org/citation.cfm?id=3098824&dl=ACM&coll=DL)
 
 ---
 
-Nov 11:
+Nov 9:
 * Architecture
     * Read [Kim+08](http://www.cs.princeton.edu/courses/archive/fall18/cos561/papers/Seattle08.pdf)
 
 ---
 
-Nov 13:
+Nov 11:
 * Architecture
     * Read [Greenberg+09](https://www.microsoft.com/en-us/research/publication/vl2-a-scalable-and-flexible-data-center-network/)
 
 ---
 
-Nov 18:
+Nov 16:
 
 * Network Monitoring
    * READ [Li+16](https://www.usenix.org/node/194941)
@@ -159,10 +154,16 @@ Nov 18:
 
 ---
 
-Nov 20:
+Nov 18:
 
 * Network Monitoring
    * Read [Handigol+14](http://www.scs.stanford.edu/~dm/home/papers/handigol:netsight.pdf)
+
+---
+
+Nov 23:
+* November recess; classes do not meet
+
 
 ---
 
@@ -172,20 +173,14 @@ Nov 25:
 
 ---
 
-Nov 27:
-* November recess; classes do not meet
-
-
----
-
-Dec 2:
+Nov 30:
 * Control Plane
    * [Labovitz+98](http://www.cs.princeton.edu/courses/archive/fall18/cos561/papers/BGPInstability98.pdf)
    * Interoperability demonstration due
 
 ---
 
-Dec 4:
+Dec 2:
 * Control Plane
    * [Vissicchio+15](http://fibbing.net/files/sig15.pdf)
 
