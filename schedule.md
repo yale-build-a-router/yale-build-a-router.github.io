@@ -117,8 +117,8 @@ Oct 26:
 ---
 
 Oct 28:
-* Network Virtualization
-    * Read [Kumar+19](https://dl.acm.org/citation.cfm?id=3342093)
+* Dataplane Composition
+    * Read [Soni+20](https://dl.acm.org/doi/abs/10.1145/3387514.3405872)
 
 ---
 
