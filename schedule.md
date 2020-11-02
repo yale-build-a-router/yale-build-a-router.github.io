@@ -129,8 +129,8 @@ Nov 2:
 ---
 
 Nov 4:
-* : Applications
-    * Read [Miao+17](https://dl.acm.org/citation.cfm?id=3098824&dl=ACM&coll=DL)
+* : <s>Applications</s>
+    * <s>Read [Miao+17](https://dl.acm.org/citation.cfm?id=3098824&dl=ACM&coll=DL)</s>
 
 ---
 
