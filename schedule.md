@@ -123,13 +123,13 @@ Oct 28:
 ---
 
 Nov 2:
-* : Applications
+* Applications
     * Read [Jin+17](https://dl.acm.org/citation.cfm?id=3132747.3132764)
     
 ---
 
 Nov 4:
-* : <s>Applications</s>
+* <s>Applications</s>
     * <s>Read [Miao+17](https://dl.acm.org/citation.cfm?id=3098824&dl=ACM&coll=DL)</s>
 
 ---
