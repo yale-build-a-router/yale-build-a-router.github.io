@@ -141,23 +141,23 @@ Nov 9:
 ---
 
 Nov 11:
-* Architecture
-    * Read [Greenberg+09](https://www.microsoft.com/en-us/research/publication/vl2-a-scalable-and-flexible-data-center-network/)
+* <s>Architecture</s>
+    * <s>Read [Greenberg+09](https://www.microsoft.com/en-us/research/publication/vl2-a-scalable-and-flexible-data-center-network/)</s>
 
 ---
 
 Nov 16:
 
 * Network Monitoring
-   * READ [Li+16](https://www.usenix.org/node/194941)
+   * Read [Handigol+14](http://www.scs.stanford.edu/~dm/home/papers/handigol:netsight.pdf)
    * Router project due
 
 ---
 
 Nov 18:
 
-* Network Monitoring
-   * Read [Handigol+14](http://www.scs.stanford.edu/~dm/home/papers/handigol:netsight.pdf)
+* <s>Network Monitoring</s>
+   * <s>READ [Li+16](https://www.usenix.org/node/194941)</s>
 
 ---
 
@@ -175,14 +175,13 @@ Nov 25:
 
 Nov 30:
 * Control Plane
-   * [Labovitz+98](http://www.cs.princeton.edu/courses/archive/fall18/cos561/papers/BGPInstability98.pdf)
    * Interoperability demonstration due
 
 ---
 
 Dec 2:
-* Control Plane
-   * [Vissicchio+15](http://fibbing.net/files/sig15.pdf)
+* End Host
+   * [McCanne+93](https://www.usenix.org/legacy/publications/library/proceedings/sd93/mccanne.pdf)
 
 
 
