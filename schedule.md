@@ -149,7 +149,6 @@ Nov 11:
 Nov 16:
 
 * Network Monitoring
-   * Read [Handigol+14](http://www.scs.stanford.edu/~dm/home/papers/handigol:netsight.pdf)
    * Router project due
 
 ---
@@ -157,6 +156,7 @@ Nov 16:
 Nov 18:
 
 * <s>Network Monitoring</s>
+   * Read [Handigol+14](http://www.scs.stanford.edu/~dm/home/papers/handigol:netsight.pdf)
    * <s>READ [Li+16](https://www.usenix.org/node/194941)</s>
 
 ---
