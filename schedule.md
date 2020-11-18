@@ -174,14 +174,19 @@ Nov 25:
 ---
 
 Nov 30:
-* Control Plane
-   * Interoperability demonstration due
-
+* 1:1 meetings
+   
 ---
 
 Dec 2:
 * End Host
    * [McCanne+93](https://www.usenix.org/legacy/publications/library/proceedings/sd93/mccanne.pdf)
+
+---
+
+Dec 9:
+* End Host
+   *  Interoperability demonstration 
 
 
 
