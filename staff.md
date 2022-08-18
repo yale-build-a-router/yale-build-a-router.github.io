@@ -11,3 +11,7 @@ permalink: /staff/
   * Office: AKW 206
   * Office hours: By appointment
 
+* TA [John Kolesar](https://cpsc.yale.edu/people/john-kolesar)
+  * Email: [john.kolesar@yale.edu ](john.kolesar@yale.edu )
+  * Office: AKW 211
+  * Office hours: TBD
