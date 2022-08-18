@@ -4,11 +4,11 @@ layout: default
 
 # Time and Location
 
-**Term:** Fall 2020
+**Term:** Fall 2022
 
 **Lectures:** 
-   * Monday and Wednesday 2:30pm – 3:45pm
-   * Lectures will be held on Zoom
+   * Tuesday and Thursday 1:00pm – 2:15pm
+   * Watson Center 60 Sachem Street A46
 
 
 # Overview
@@ -37,7 +37,7 @@ discussed. Students must email their reviews to the course mailing list by midni
 ## Course Mailing List
 
 
-Join the course <a href="http://mailman.cs.yale.edu/mailman/listinfo/cpsc435-fall2020">mailing list</a>. 
+Join the course <a href="http://mailman.cs.yale.edu/mailman/listinfo/cpsc435-fall2022">mailing list</a>. 
 
 # Class Router Interoperation
 
