@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Source Code
-permalink: /code/
+permalink: /source/
 ---
 
 * [P4app](https://github.com/p4lang/p4app)
