@@ -129,8 +129,8 @@ Nov 8:
 ---
 
 Nov 10:
-* <s>Applications</s>
-    * <s>Read [Miao+17](https://dl.acm.org/citation.cfm?id=3098824&dl=ACM&coll=DL)</s>
+* Applications
+    * Read [Miao+17](https://dl.acm.org/citation.cfm?id=3098824&dl=ACM&coll=DL)
 
 ---
 
@@ -141,8 +141,8 @@ Nov 15:
 ---
 
 Nov 17:
-* <s>Architecture</s>
-    * <s>Read [Greenberg+09](https://www.microsoft.com/en-us/research/publication/vl2-a-scalable-and-flexible-data-center-network/)</s>
+* Architecture
+    * Read [Greenberg+09](https://www.microsoft.com/en-us/research/publication/vl2-a-scalable-and-flexible-data-center-network/)
 
 ---
 
@@ -167,9 +167,9 @@ Nov 24:
 
 Nov 29:
 
-* <s>Network Monitoring</s>
+* Network Monitoring
    * Read [Handigol+14](http://www.scs.stanford.edu/~dm/home/papers/handigol:netsight.pdf)
-   * <s>READ [Li+16](https://www.usenix.org/node/194941)</s>
+   * READ [Li+16](https://www.usenix.org/node/194941)
 
 ---
 
