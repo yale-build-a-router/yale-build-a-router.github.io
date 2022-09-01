@@ -36,7 +36,6 @@ discussed. Students must email their reviews to the course mailing list by midni
 
 ## Course Mailing List
 
-
 Join the course <a href="http://mailman.cs.yale.edu/mailman/listinfo/cpsc435-fall2022">mailing list</a>. 
 
 # Class Router Interoperation
