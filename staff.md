@@ -14,4 +14,4 @@ permalink: /staff/
 * TA [John Kolesar](https://cpsc.yale.edu/people/john-kolesar)
   * Email: [john.kolesar@yale.edu ](john.kolesar@yale.edu )
   * Office: AKW 211
-  * Office hours: TBD
+  * Office hours: Mondays 3:00-4:00pm
