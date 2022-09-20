@@ -48,33 +48,32 @@ Sep 20:
 ---
 
 Sep 22:
-* Data Plane Programmability II
-   * Read [Kohler+00](http://www.cs.princeton.edu/courses/archive/fall18/cos561/papers/Click00.pdf)
+* P4 Tutorial Continued
    * [Starter project](https://github.com/yale-build-a-router/switch-cache) out.
 
 ---
 
 Sep 27:
+* Data Plane Programmability II
+   * Read [Kohler+00](http://www.cs.princeton.edu/courses/archive/fall18/cos561/papers/Click00.pdf)
+
+---
+
+Sep 29:
 * Languages II  
     * Read [Foster+11](https://dl.acm.org/citation.cfm?id=2034812)
 
 ---
 
-Sep 29:
+Oct 4:
 * Internet Architecture and Design
     * Read [Clark88](http://ccr.sigcomm.org/archive/1995/jan95/ccr-9501-clark.pdf)
 
 ---
 
-Oct 4:
+Oct 6:
 * Internet Architecture and Design
     * Read [Saltzer+84](https://dl.acm.org/citation.cfm?id=357402)
-
----
-
-Oct 6:
-* Congestion Control 
-    * Read [Jacobson88](https://dl.acm.org/citation.cfm?id=52356)
     * Starter Project due. 
     * [Internet Router Project](https://yale-build-a-router.github.io/documentation/internet-router/)
 
@@ -82,14 +81,14 @@ Oct 6:
 
 Oct 11:
 * Congestion Control 
-    * Read [Floyd94](https://dl.acm.org/citation.cfm?id=205512)
+    * Read [Jacobson88](https://dl.acm.org/citation.cfm?id=52356)
 
 ---
 
 
 Oct 18:
-* Active Networks
-    * Read [Smith+04](https://ieeexplore.ieee.org/document/1262565)
+* Congestion Control 
+    * Read [Floyd94](https://dl.acm.org/citation.cfm?id=205512)
 
 ---
 
@@ -99,44 +98,44 @@ Oct 20:
 ---
 
 Oct 25:
+* Active Networks
+    * Read [Smith+04](https://ieeexplore.ieee.org/document/1262565)
+
+---
+
+Oct 27:
 * High Speed Routing
     * Read [McKeown+97](https://ieeexplore.ieee.org/document/566194)
 
 ---
 
-Oct 27:
+Nov 1:
 * Transport Protocols
     * Read [Alizadeh+10](https://people.csail.mit.edu/alizadeh/papers/dctcp-sigcomm10.pdf)
 
 ---
 
-Nov 1:
+Nov 3:
 * Transport Protocols
     * Read [Handley+17](https://dl.acm.org/citation.cfm?id=3098825)
 
 ---
 
-Nov 3:
+Nov 8:
 * Dataplane Composition
     * Read [Soni+20](https://dl.acm.org/doi/abs/10.1145/3387514.3405872)
-
----
-
-Nov 8:
-* Applications
-    * Read [Jin+17](https://dl.acm.org/citation.cfm?id=3132747.3132764)
     
 ---
 
 Nov 10:
 * Applications
-    * Read [Miao+17](https://dl.acm.org/citation.cfm?id=3098824&dl=ACM&coll=DL)
+    * Read [Jin+17](https://dl.acm.org/citation.cfm?id=3132747.3132764)
 
 ---
 
 Nov 15:
-* Architecture
-    * Read [Kim+08](http://www.cs.princeton.edu/courses/archive/fall18/cos561/papers/Seattle08.pdf)
+* Applications
+    * Read [Miao+17](https://dl.acm.org/citation.cfm?id=3098824&dl=ACM&coll=DL)
 
 ---
 
