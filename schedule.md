@@ -93,7 +93,7 @@ Oct 13:
 
 Oct 18:
 * Congestion Control 
-    * Read [Alizadeh10](https://people.csail.mit.edu/alizadeh/papers/dctcp-sigcomm10.pdf)
+    * Read [Alizadeh+10](https://people.csail.mit.edu/alizadeh/papers/dctcp-sigcomm10.pdf)
 
 
 ---
