@@ -85,10 +85,16 @@ Oct 11:
 
 ---
 
+Oct 13:
+* Congestion Control 
+    * Read [Floyd94](https://dl.acm.org/citation.cfm?id=205512)
+
+---
 
 Oct 18:
 * Congestion Control 
-    * Read [Floyd94](https://dl.acm.org/citation.cfm?id=205512)
+    * Read [Alizadeh10](https://people.csail.mit.edu/alizadeh/papers/dctcp-sigcomm10.pdf)
+
 
 ---
 
@@ -111,7 +117,7 @@ Oct 27:
 
 Nov 1:
 * Transport Protocols
-    * Read [Alizadeh+10](https://people.csail.mit.edu/alizadeh/papers/dctcp-sigcomm10.pdf)
+    * TBD 
 
 ---
 
