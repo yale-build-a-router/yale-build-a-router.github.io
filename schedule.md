@@ -135,29 +135,27 @@ Nov 8:
 ---
 
 Nov 10:
-* Applications
-    * Read [Jin+17](https://dl.acm.org/citation.cfm?id=3132747.3132764)
+* Network Monitoring
+    * Read [Paxson96](https://conferences.sigcomm.org/sigcomm/1996/papers/paxson.pdf)
 
 ---
 
 Nov 15:
-* Applications
-    * Read [Miao+17](https://dl.acm.org/citation.cfm?id=3098824&dl=ACM&coll=DL)
+* Network Monitoring
+    * Read [Benson+10](https://conferences.sigcomm.org/imc/2010/papers/p267.pdf)
 
 ---
 
 Nov 17:
-* Architecture
-    * Read [Greenberg+09](https://www.microsoft.com/en-us/research/publication/vl2-a-scalable-and-flexible-data-center-network/)
-
----
-
-Nov 16:
 
 * Network Monitoring
-   * Router project due
+   * Read [Handigol+14](http://www.scs.stanford.edu/~dm/home/papers/handigol:netsight.pdf)
+   * READ [Li+16](https://www.usenix.org/node/194941)
+
+
 
 ---
+
 
 Nov 22:
 * November recess; classes do not meet
@@ -172,15 +170,14 @@ Nov 24:
 ---
 
 Nov 29:
-
-* Network Monitoring
-   * Read [Handigol+14](http://www.scs.stanford.edu/~dm/home/papers/handigol:netsight.pdf)
-   * READ [Li+16](https://www.usenix.org/node/194941)
+* Applications
+    * Read [Miao+17](https://dl.acm.org/citation.cfm?id=3098824&dl=ACM&coll=DL)
 
 ---
 
 Dec 1:
-* TBD
+* Applications
+    * Read [Jin+17](https://dl.acm.org/citation.cfm?id=3132747.3132764)
    
 ---
 
