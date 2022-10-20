@@ -166,24 +166,24 @@ Nov 22:
 Nov 24:
 * November recess; classes do not meet
 
-
 ---
 
 Nov 29:
-* Applications
-    * Read [Miao+17](https://dl.acm.org/citation.cfm?id=3098824&dl=ACM&coll=DL)
+* Active Networks
+    * Read [Smith+04](https://ieeexplore.ieee.org/document/1262565)
 
 ---
 
 Dec 1:
 * Applications
-    * Read [Jin+17](https://dl.acm.org/citation.cfm?id=3132747.3132764)
-   
+    * Read [Miao+17](https://dl.acm.org/citation.cfm?id=3098824&dl=ACM&coll=DL)
+
 ---
 
 Dec 6:
-* Dataplane Composition
-    * Read [Soni+20](https://dl.acm.org/doi/abs/10.1145/3387514.3405872)
+* Applications
+    * Read [Jin+17](https://dl.acm.org/citation.cfm?id=3132747.3132764)
+   
 
 ---
 
