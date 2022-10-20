@@ -104,32 +104,33 @@ Oct 20:
 ---
 
 Oct 25:
-* Active Networks
-    * Read [Smith+04](https://ieeexplore.ieee.org/document/1262565)
+* RDMA
+    * Read [Guo+16](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/rdma_sigcomm2016.pdf)
 
 ---
 
 Oct 27:
-* High Speed Routing
-    * Read [McKeown+97](https://ieeexplore.ieee.org/document/566194)
+* RDMA
+    * Read [Singhvi+20](https://dl.acm.org/doi/10.1145/3387514.3405897)
 
 ---
 
 Nov 1:
-* Transport Protocols
-    * TBD 
+* RPCs
+    * Read [Kalia+19](https://dl.acm.org/doi/10.5555/3323234.3323236)
 
 ---
 
 Nov 3:
-* Transport Protocols
-    * Read [Handley+17](https://dl.acm.org/citation.cfm?id=3098825)
+* End Host
+   * [McCanne+93](https://www.usenix.org/legacy/publications/library/proceedings/sd93/mccanne.pdf)
+
 
 ---
 
 Nov 8:
-* Dataplane Composition
-    * Read [Soni+20](https://dl.acm.org/doi/abs/10.1145/3387514.3405872)
+* End Host
+    * Read [Marty+19](https://dl.acm.org/doi/10.1145/3341301.3359657)
     
 ---
 
@@ -184,13 +185,13 @@ Dec 1:
 ---
 
 Dec 6:
-* End Host
-   * [McCanne+93](https://www.usenix.org/legacy/publications/library/proceedings/sd93/mccanne.pdf)
+* Dataplane Composition
+    * Read [Soni+20](https://dl.acm.org/doi/abs/10.1145/3387514.3405872)
 
 ---
 
 Dec 8:
-* End Host
+* Demos
    *  Interoperability demonstration 
 
 
