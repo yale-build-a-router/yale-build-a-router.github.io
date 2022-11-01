@@ -171,6 +171,7 @@ Nov 24:
 Nov 29:
 * Active Networks
     * Read [Smith+04](https://ieeexplore.ieee.org/document/1262565)
+    * __Starter Project Due__
 
 ---
 
