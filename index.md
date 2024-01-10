@@ -4,12 +4,11 @@ layout: default
 
 # Time and Location
 
-**Term:** Fall 2022
+**Term:** Spring 2024
 
 **Lectures:** 
-   * Tuesday and Thursday 1:00pm – 2:15pm
-   * Watson Center 60 Sachem Street A46
-
+   * Tuesday and Thursday 9:00am – 10:15am
+   * 17 Hillhouse Avenue, Room 113
 
 # Overview
 
