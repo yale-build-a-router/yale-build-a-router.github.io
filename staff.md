@@ -8,10 +8,10 @@ permalink: /staff/
 
 * Professor [Robert Soul&eacute;](http://www.cs.yale.edu/homes/soule/)
   * Email: [robert.soule@yale.edu](mailto:robert.soule@yale.edu)
-  * Office: AKW 206
-  * Office hours: Thursdays 2:30-3:30pm
+  * Office: 10 Hillhouse Avenue, Room 408
+  * Office hours: By appointment
 
-* TA [John Kolesar](https://cpsc.yale.edu/people/john-kolesar)
-  * Email: [john.kolesar@yale.edu ](john.kolesar@yale.edu )
-  * Office: AKW 211
-  * Office hours: Mondays 3:00-4:00pm
+* TA [Amirmohammad Nazari](https://cpsc.yale.edu/people/amirmohammad-nazari)
+  * Email: [amirmohammad.nazari@yale.edu](amirmohammad.nazari@yale.edu)
+  * Office: 10 Hillhouse Avenue, Room 417
+  * Office hours: TBD
