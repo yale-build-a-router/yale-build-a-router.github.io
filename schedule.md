@@ -172,7 +172,7 @@ Apr 11:
 Apr 16:
 * Active Networks
     * Read [Smith+04](https://ieeexplore.ieee.org/document/1262565)
-    * __Starter Project Due__
+    * __Router Project Due__
 
 ---
 
