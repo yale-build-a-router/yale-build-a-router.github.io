@@ -156,14 +156,16 @@ Apr 4:
 
 Apr 9:
 * Network Monitoring
-    * Read [Benson+10](https://conferences.sigcomm.org/imc/2010/papers/p267.pdf)
+   * Read [Handigol+14](http://www.scs.stanford.edu/~dm/home/papers/handigol:netsight.pdf)
+   * ~~Read [Benson+10](https://conferences.sigcomm.org/imc/2010/papers/p267.pdf)~~
 
 ---
 
 Apr 11:
 
 * Network Monitoring
-   * Read [Handigol+14](http://www.scs.stanford.edu/~dm/home/papers/handigol:netsight.pdf)
+   * Read [Smith+04](https://ieeexplore.ieee.org/document/1262565)
+   * ~~Read [Handigol+14](http://www.scs.stanford.edu/~dm/home/papers/handigol:netsight.pdf)~~
    * READ [Li+16](https://www.usenix.org/node/194941)
 
 
@@ -171,20 +173,24 @@ Apr 11:
 
 Apr 16:
 * Active Networks
-    * Read [Smith+04](https://ieeexplore.ieee.org/document/1262565)
+    * Read [Jin+17](https://dl.acm.org/citation.cfm?id=3132747.3132764)
+    * ~~Read [Smith+04](https://ieeexplore.ieee.org/document/1262565)~~
     * __Router Project Due__
 
 ---
 
 Apr 18:
 * Applications
-    * Read [Miao+17](https://dl.acm.org/citation.cfm?id=3098824&dl=ACM&coll=DL)
+    * Project Demo Day (Sign up with Amirmohammad)
+    * Read [Jin+17](https://dl.acm.org/citation.cfm?id=3132747.3132764)
+    * ~~Read [Miao+17](https://dl.acm.org/citation.cfm?id=3098824&dl=ACM&coll=DL)~~
 
 ---
 
 Apr 23:
 * Applications
-    * Read [Jin+17](https://dl.acm.org/citation.cfm?id=3132747.3132764)
+    * Project Demo Day (Sign up with Amirmohammad)
+    * ~~Read [Jin+17](https://dl.acm.org/citation.cfm?id=3132747.3132764)~~
    
 ---
 
