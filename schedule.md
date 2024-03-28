@@ -163,7 +163,7 @@ Apr 9:
 
 Apr 11:
 
-* Network Monitoring
+* Active Networks
    * Read [Smith+04](https://ieeexplore.ieee.org/document/1262565)
    * ~~Read [Handigol+14](http://www.scs.stanford.edu/~dm/home/papers/handigol:netsight.pdf)~~
    * READ [Li+16](https://www.usenix.org/node/194941)
@@ -172,7 +172,7 @@ Apr 11:
 ---
 
 Apr 16:
-* Active Networks
+* Active Networks	
     * Read [Jin+17](https://dl.acm.org/citation.cfm?id=3132747.3132764)
     * ~~Read [Smith+04](https://ieeexplore.ieee.org/document/1262565)~~
     * __Router Project Due__
@@ -180,15 +180,14 @@ Apr 16:
 ---
 
 Apr 18:
-* Applications
+* Demo
     * Project Demo Day (Sign up with Amirmohammad)
-    * Read [Jin+17](https://dl.acm.org/citation.cfm?id=3132747.3132764)
     * ~~Read [Miao+17](https://dl.acm.org/citation.cfm?id=3098824&dl=ACM&coll=DL)~~
 
 ---
 
 Apr 23:
-* Applications
+* Demo
     * Project Demo Day (Sign up with Amirmohammad)
     * ~~Read [Jin+17](https://dl.acm.org/citation.cfm?id=3132747.3132764)~~
    
